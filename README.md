@@ -1,6 +1,9 @@
 # Stock-Prediction-System
 A Deep  Learning Based Model to Forcast the Direction of Stock Exchange Market
 
+You cange get the research paper here:- <a href="https://ijcrt.org/papers/IJCRT2304687.pdf" target="_blank">Click Here</a>
+
+
 Home  Page
 ![image alt](https://github.com/Kjanhavi25/Stock-Prediction-System/blob/fb437de0a9bafebdd32ae208811c8681211fda83/Home%20Page.jpg)
 
